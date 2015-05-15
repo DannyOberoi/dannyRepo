@@ -4,5 +4,9 @@
   <artifactId>gitdemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!-- test -->
+<<<<<<< HEAD
   <!--  test9 -->
+=======
+  <!--  test8 -->
+>>>>>>> refs/heads/master
 </project>
